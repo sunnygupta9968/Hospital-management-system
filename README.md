@@ -19,7 +19,7 @@ Hospital Management System Project using Advance Java. The Project is divided in
 5. View All Users/Patients in Hospitals with their details
 6. Add specialist doctor type
 7. Session Logout functionality
-8. See no of appointments in the hospital and which patient has been appointed to which doctor.
+8. See number of appointments in the hospital and which patient has been appointed to which doctor.
 
 # Doctor:
 1. Can Update his own profile and Change All his Details and Password Also
@@ -29,6 +29,6 @@ Hospital Management System Project using Advance Java. The Project is divided in
 5. See how many doctors are in the hospital.
 _____________________________________________________________________________
 # User:
-1. Can add many several appointments.
+1. Can book many several appointments.
 2. User can check their health status updated by the doctor. 
-3. User can change his Password. 
+
