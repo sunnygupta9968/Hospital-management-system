@@ -11,7 +11,7 @@ Hospital Management System Project using Advance Java. The Project is divided in
 6. Tools – Eclipse Ide, MySQL workbench
 
 ## The functionalities of each module are:
-# Admin:
+### Admin:
 1. Add Doctor 
 2. Edit Doctor Details
 3. Delete Doctor
@@ -21,14 +21,14 @@ Hospital Management System Project using Advance Java. The Project is divided in
 7. Session Logout functionality
 8. See number of appointments in the hospital and which patient has been appointed to which doctor.
 
-# Doctor:
+### Doctor:
 1. Can Update his own profile and Change All his Details and Password Also
 2. See how many patients have been appointed to him with their details
 3. Comment on their health status and it will be updated throughout the application
 4. Logout functionality
 5. See how many doctors are in the hospital.
-_____________________________________________________________________________
-# User:
+
+### User:
 1. Can book many several appointments.
 2. User can check their health status updated by the doctor. 
 
